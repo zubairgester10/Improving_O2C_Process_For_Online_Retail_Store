@@ -14,7 +14,7 @@ The company experiences delays in order fulfilment, recurring invoicing errors, 
 5. Presented **insights and recommendations** to create business value.  
 
 ## AS-IS Process
-![AS-IS Process]: provided in seperate folder "Process models"  
+Provided in seperate folder "Process models"  
 
 **Pain Points:**  
 - Manual steps cause delays and errors.  
@@ -22,7 +22,7 @@ The company experiences delays in order fulfilment, recurring invoicing errors, 
 - Payment tracking is inconsistent.  
 
 ## TO-BE Process
-![TO-BE Process] : provided in seperate folder "Process models"   
+Provided in seperate folder "Process models"   
 
 **Improvements:**  
 - Automate invoicing and payment notifications.  
@@ -38,7 +38,7 @@ The company experiences delays in order fulfilment, recurring invoicing errors, 
 | Invoice accuracy | 80% | 99% | Auto-generation reduces human errors |
 | On-time delivery | 75% | 97% | Faster handoffs & shipments |
 
-![Excel dashboard provided in seperate folder "KPI Dashboard"]
+Excel dashboard provided in seperate folder "KPI Dashboard".
 
 ## Insights & Recommendations
 - Auto-approvals and invoice generation save time and reduce errors.  
